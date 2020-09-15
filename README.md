@@ -19,8 +19,7 @@ java NBody 15770000.0 25000.0 data/planets.txt
 ```
 will output 
 
-```
 ![alt-text] (https://github.com/jiaheyi-maggie/Nbody/blob/master/production/demo.gif)
-```
+
 
 Please make sure to update tests as appropriate.
